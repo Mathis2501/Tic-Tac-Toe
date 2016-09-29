@@ -9,6 +9,7 @@
     <Import_RootNamespace>TicTacToe</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="$(MSBuildThisFileDirectory)Class1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PlayerTest.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TicTacToeTest.cs" />
   </ItemGroup>
 </Project>
